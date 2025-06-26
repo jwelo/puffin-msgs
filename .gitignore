@@ -1,0 +1,9 @@
+# ROS 2 Specific Ignored Files/Directories
+build/
+install/
+log/
+.ament_cmake
+*.pyc
+__pycache__/
+.vscode/
+*.log
